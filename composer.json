@@ -1,0 +1,13 @@
+{
+    "name": "jamesiarmes/exchangewebservices",
+    "description": "PHP package for interacting with Exchange Web Services",
+    "authors": [
+        {
+            "name": "James I. Armes",
+            "email": "jamesiarmes@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
